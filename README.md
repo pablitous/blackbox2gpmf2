@@ -1,6 +1,6 @@
 # blackbox2gpmf
 
-##***How To install***
+***How To install***
 
 1. Install python
 2. Install this 4 libraries:  
